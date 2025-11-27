@@ -9,7 +9,7 @@ export const RESUME: ResumeData = {
     phone: "+918187877802",
     email: "singhamal1710@gmail.com",
     location: "Gurugram, Haryana, India",
-    linkedin: "https://www.linkedin.com/in/amal-singh-genai",
+    linkedin: "https://www.linkedin.com/in/singhamal",
     github: "https://github.com/singhamal001"
   },
   summary: "AI & ML Engineer and Full Stack Developer with a proven track record in end-to-end GenAI pipelines, advanced RAG architectures, and ML model training. Skilled in designing and implementing scalable AI initiatives, transforming unstructured data into structured intelligence using modern web technologies.",
