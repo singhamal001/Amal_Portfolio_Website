@@ -3,7 +3,6 @@ import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { Experience } from './components/Experience';
 import { Skills } from './components/Skills';
-import { AIChat } from './components/AIChat';
 import { ContactFooter } from './components/ContactFooter';
 import { Cursor } from './components/Cursor';
 
@@ -37,9 +36,6 @@ const App: React.FC = () => {
       <section id="contact">
         <ContactFooter />
       </section>
-
-      {/* The GenAI Companion - Persistent */}
-      <AIChat />
     </div>
   );
 };
